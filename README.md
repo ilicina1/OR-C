@@ -1,1 +1,1 @@
-# Zadaci sa tutorijala iz predmeta osnove racunarstva
+# Zadaci iz predmeta osnove racunarstva
